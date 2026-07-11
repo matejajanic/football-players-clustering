@@ -17,7 +17,7 @@ venv/
 Thumbs.db
 
 # Generated outputs
-data/processed/
+data/
 
 # Models
 models/
