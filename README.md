@@ -38,8 +38,9 @@ notebooks/
     02_feature_engineering.ipynb
     03_feature_reduction.ipynb
     04_clustering.ipynb
-    05_more_specific_clustering.ipynb
-    06_cluster_visualization.ipynb
+    05_cluster_analysis.ipynb
+    06_more_specific_clustering.ipynb
+    07_cluster_visualization.ipynb
 ```
 
 ---
